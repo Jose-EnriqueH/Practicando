@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practicando001</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Favoritos</string>
+    <string name="title_notifications">Notificaciones</string>
+    <string name="Hola">item1</string>
+</resources>
